@@ -6,6 +6,7 @@ const Index = () => {
       <MainContainer keywords={'main page'}>
 
         <h1>Main Page</h1>
+        <h2>Checking updating from git to deploy</h2>
 
       </MainContainer>
     </>
